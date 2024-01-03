@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-medium"
         android:foregroundTint="#FFFFFF"
-        android:text="Let's Grow your Pet with Pet's Grow...!"
+        android:text="Let's Grow your Pet with Pet's Grow....!"
         android:textColor="#FF5722"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
