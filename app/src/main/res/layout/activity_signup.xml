@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#4B03A9F4"
+    android:background="#E6C8D1"
     tools:context=".SignupActivity">
 
     <EditText
@@ -78,7 +78,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
         android:layout_marginEnd="40dp"
-        android:backgroundTint="#86E849"
+        android:backgroundTint="#B580D8FF"
         android:text="Create Account"
         android:textAllCaps="false"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -131,12 +131,14 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="189dp"
-        android:layout_height="199dp"
+        android:layout_width="200dp"
+        android:layout_height="190dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.03"
-        app:srcCompat="@drawable/singuplogo" />
+        app:layout_constraintVertical_bias="0.051"
+        app:srcCompat="@drawable/pglogo" />
+
 </android.support.constraint.ConstraintLayout>
